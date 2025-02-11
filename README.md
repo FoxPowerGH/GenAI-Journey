@@ -1,2 +1,2 @@
-# GenAI-Journey
+# Inteligencia Artificial Generativa - GenAI Journey
 Accelerate Your GenAI Journey
