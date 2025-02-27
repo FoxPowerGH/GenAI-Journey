@@ -1,5 +1,5 @@
 # Inteligencia Artificial Generativa - GenAI Journey
-Desde siempre me ha fascinado la tecnología y su capacidad para crear cosas asombrosas. Pero cuando escuché sobre la Inteligencia Artificial Generativa (GenAI), me di cuenta de que estaba ante una herramienta con un potencial increíble. Así que decidí emprender un viaje de aprendizaje, desde los conceptos más básicos hasta un nivel intermedio. Hoy quiero compartir mi ruta para que otros puedan seguir este camino con facilidad.
+Desde siempre me ha fascinado la tecnología y su capacidad para crear cosas asombrosas. Pero cuando escuché sobre la Inteligencia Artificial Generativa (GenAI), me di cuenta de que estaba ante una herramienta con un potencial increíble. Así que decidí emprender un viaje de aprendizaje, desde los conceptos más básicos hasta un nivel intermedio.
 
 ## Comienzo de mi ruta de aprendizaje (nivel principiante)
 Imagina que tienes una caja mágica que puede aprender a dibujar, escribir cuentos o hasta componer música. Esta caja aprende observando muchos ejemplos y luego trata de hacer algo nuevo por sí misma. Eso es la Inteligencia Artificial Generativa: una máquina que aprende de los datos y crea cosas nuevas.
